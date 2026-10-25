@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: k8s-crud-app-deployment
+  labels:
+    app: k8s-crud-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: k8s-crud-app
+  template:
+    metadata:
+      labels:
+        app: k8s-crud-app
+    spec:
+      containers:
+      - name: k8s-crud-app
+        image: k8s-crud-app:v2
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 3000
+        env:
+        - name: MONGODB_URI
+          # Note: In a real production scenario, use Kubernetes Secrets for this!
+          value: "mongodb+srv://<username>:<password>@cluster0.mongodb.net/taskdb?retryWrites=true&w=majority"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 3000
+          initialDelaySeconds: 15
+          periodSeconds: 10

@@ -1,0 +1,153 @@
+{
+  "59defed7-5b2c-4bc6-a9bc-1bbc91a236c3": {
+    "id": "59defed7-5b2c-4bc6-a9bc-1bbc91a236c3",
+    "destination": "Goa",
+    "budget": 30000.0,
+    "currency": "INR",
+    "days": 3,
+    "travelStyle": "Friends",
+    "travelers": 3,
+    "interests": [
+      "Beach",
+      "Nightlife",
+      "Food"
+    ],
+    "startDate": null,
+    "summary": "A customized 3-day friends itinerary in Goa designed for 3 traveler(s) with a focus on Beach, Nightlife, Food. Perfectly optimized for your budget of INR 30,000.",
+    "dayPlans": [
+      {
+        "day": 1,
+        "title": "Arrival, Settling in & Historic Charm of Goa",
+        "morning": "Arrive in Goa, check into Taj Holiday Village, unpack, and enjoy refreshing welcome drinks. Take a relaxed stroll around the city center.",
+        "afternoon": "Savor an authentic lunch featuring Goan Fish Curry. Visit Calangute Beach to absorb the city's vibe.",
+        "evening": "Watch the sunset from Baga Beach & Night Market, followed by a welcome dinner with live music.",
+        "activities": []
+      },
+      {
+        "day": 2,
+        "title": "Day 2: Deep Dive into Fort Aguada & Lighthouse & Local Adventures",
+        "morning": "Start the day early with a scenic excursion to Fort Aguada & Lighthouse. Enjoy fresh local breakfast snacks and guided walkthroughs.",
+        "afternoon": "Lunch at a highly-rated traditional eatery. Experience Nightlife activities and museum exhibits.",
+        "evening": "Indulge in evening street food hopping, night bazaars, or scenic rooftop dining overlooking Goa's illuminated skyline.",
+        "activities": []
+      },
+      {
+        "day": 3,
+        "title": "Souvenir Shopping, Hidden Gems & Farewell Goa",
+        "morning": "Early morning photography and cafe hopping. Visit artisan craft markets to pick up regional souvenirs and specialties.",
+        "afternoon": "Enjoy a leisurely farewell lunch. Visit Taj Holiday Village (Recommended Stay) for last-minute sightseeing.",
+        "evening": "Pack your luggage, check out of hotel, and head to the airport/station for departure with memorable experiences.",
+        "activities": []
+      }
+    ],
+    "budgetBreakdown": {
+      "accommodation": 10800.0,
+      "food": 7200.0,
+      "activities": 6000.0,
+      "transport": 3600.0,
+      "miscellaneous": 2400.0,
+      "total": 30000.0,
+      "currency": "INR",
+      "perPersonCost": 10000.0,
+      "savingsTip": "Split taxi fares and group meal platters to enjoy premium dining at moderate prices."
+    },
+    "mapPoints": [
+      {
+        "id": "pt-1",
+        "name": "Calangute Beach",
+        "category": "Beach",
+        "lat": 15.5441,
+        "lng": 73.7552,
+        "description": "Premier Beach attraction rated 4.6\u2605 in Goa",
+        "rating": 4.6,
+        "entryFee": 0.0
+      },
+      {
+        "id": "pt-2",
+        "name": "Baga Beach & Night Market",
+        "category": "Nightlife",
+        "lat": 15.5553,
+        "lng": 73.7517,
+        "description": "Premier Nightlife attraction rated 4.7\u2605 in Goa",
+        "rating": 4.7,
+        "entryFee": 0.0
+      },
+      {
+        "id": "pt-3",
+        "name": "Fort Aguada & Lighthouse",
+        "category": "Historical",
+        "lat": 15.4925,
+        "lng": 73.7737,
+        "description": "Premier Historical attraction rated 4.5\u2605 in Goa",
+        "rating": 4.5,
+        "entryFee": 50.0
+      },
+      {
+        "id": "pt-4",
+        "name": "Dudhsagar Waterfalls",
+        "category": "Adventure",
+        "lat": 15.3144,
+        "lng": 74.3143,
+        "description": "Premier Adventure attraction rated 4.8\u2605 in Goa",
+        "rating": 4.8,
+        "entryFee": 500.0
+      },
+      {
+        "id": "pt-5",
+        "name": "Basilica of Bom Jesus",
+        "category": "Culture",
+        "lat": 15.5009,
+        "lng": 73.9116,
+        "description": "Premier Culture attraction rated 4.7\u2605 in Goa",
+        "rating": 4.7,
+        "entryFee": 0.0
+      },
+      {
+        "id": "pt-hotel",
+        "name": "Taj Holiday Village (Recommended Stay)",
+        "category": "Hotel",
+        "lat": 15.5461,
+        "lng": 73.7522,
+        "description": "Recommended hotel offering great amenities and central connectivity",
+        "rating": 4.9,
+        "entryFee": 0.0
+      }
+    ],
+    "travelTips": [
+      "The best time to visit Goa is during dry, pleasant weather hours; carry comfortable walking shoes.",
+      "Local transit and pre-booked cabs offer the most reliable and budget-friendly connectivity.",
+      "Keep digital backups of your ID documents and emergency helpline numbers saved on your phone.",
+      "Try visiting popular attractions early in the morning to beat the peak tourist crowds."
+    ],
+    "packingSuggestions": [
+      "Lightweight breathable clothing & layered windbreaker / cardigan",
+      "Comfortable walking shoes & extra pairs of socks",
+      "Portable power bank, universal charging adapter & camera",
+      "Personal medical kit (pain relief, motion sickness pills, bandages)",
+      "UV sunglasses, broad-spectrum sunscreen (SPF 50+), and reusable water bottle"
+    ],
+    "emergencyContacts": [
+      "National Emergency Services: 112",
+      "Local Police Tourist Support: 100 / 112",
+      "Medical & Ambulance Emergency: 108",
+      "Goa Official Tourism Information Desk: +91 1800-209-1234"
+    ],
+    "bestLocalFoods": [
+      "Goan Fish Curry",
+      "Bebinca",
+      "Prawn Balchao",
+      "Pork Vindaloo",
+      "Feni Cocktail",
+      "Goan Poi",
+      "Crab Xec Xec",
+      "Goan Sausage Roll",
+      "Goan Thali",
+      "Ros Omelette",
+      "Serradura Dessert"
+    ],
+    "generatedItineraryMarkdown": "# \u2708 TripGenie AI Itinerary: Goa\n**Duration:** 3 Days | **Travel Style:** Friends | **Travelers:** 3 | **Budget:** INR 30,000\n\n### \ud83d\udccc Trip Summary\nA customized 3-day friends itinerary in Goa designed for 3 traveler(s) with a focus on Beach, Nightlife, Food. Perfectly optimized for your budget of INR 30,000.\n\n### \ud83d\udcb0 Estimated Budget Breakdown\n- **\ud83c\udfe8 Accommodation:** INR 10,800\n- **\ud83c\udf7d Food & Dining:** INR 7,200\n- **\ud83c\udf9f Sightseeing & Activities:** INR 6,000\n- **\ud83d\ude95 Local Transport:** INR 3,600\n- **\ud83d\udecd Miscellaneous & Buffer:** INR 2,400\n- **Total Estimated Cost:** **INR 30,000**\n\n---\n### \ud83d\uddd3 Day-by-Day Itinerary\n#### Arrival, Settling in & Historic Charm of Goa\n- **\ud83c\udf05 Morning:** Arrive in Goa, check into Taj Holiday Village, unpack, and enjoy refreshing welcome drinks. Take a relaxed stroll around the city center.\n- **\u2600\ufe0f Afternoon:** Savor an authentic lunch featuring Goan Fish Curry. Visit Calangute Beach to absorb the city's vibe.\n- **\ud83c\udf19 Evening:** Watch the sunset from Baga Beach & Night Market, followed by a welcome dinner with live music.\n\n#### Day 2: Deep Dive into Fort Aguada & Lighthouse & Local Adventures\n- **\ud83c\udf05 Morning:** Start the day early with a scenic excursion to Fort Aguada & Lighthouse. Enjoy fresh local breakfast snacks and guided walkthroughs.\n- **\u2600\ufe0f Afternoon:** Lunch at a highly-rated traditional eatery. Experience Nightlife activities and museum exhibits.\n- **\ud83c\udf19 Evening:** Indulge in evening street food hopping, night bazaars, or scenic rooftop dining overlooking Goa's illuminated skyline.\n\n#### Souvenir Shopping, Hidden Gems & Farewell Goa\n- **\ud83c\udf05 Morning:** Early morning photography and cafe hopping. Visit artisan craft markets to pick up regional souvenirs and specialties.\n- **\u2600\ufe0f Afternoon:** Enjoy a leisurely farewell lunch. Visit Taj Holiday Village (Recommended Stay) for last-minute sightseeing.\n- **\ud83c\udf19 Evening:** Pack your luggage, check out of hotel, and head to the airport/station for departure with memorable experiences.\n\n---\n### \ud83d\udca1 Key Travel Tips\n- The best time to visit Goa is during dry, pleasant weather hours; carry comfortable walking shoes.\n- Local transit and pre-booked cabs offer the most reliable and budget-friendly connectivity.\n- Keep digital backups of your ID documents and emergency helpline numbers saved on your phone.\n- Try visiting popular attractions early in the morning to beat the peak tourist crowds.\n\n### \ud83e\uddf3 Packing Checklist\n- Lightweight breathable clothing & layered windbreaker / cardigan\n- Comfortable walking shoes & extra pairs of socks\n- Portable power bank, universal charging adapter & camera\n- Personal medical kit (pain relief, motion sickness pills, bandages)\n- UV sunglasses, broad-spectrum sunscreen (SPF 50+), and reusable water bottle\n\n### \ud83c\udf5c Best Local Foods to Try\n- Goan Fish Curry\n- Bebinca\n- Prawn Balchao\n- Pork Vindaloo\n- Feni Cocktail\n- Goan Poi\n- Crab Xec Xec\n- Goan Sausage Roll\n- Goan Thali\n- Ros Omelette\n- Serradura Dessert\n\n### \ud83d\udea8 Emergency Contacts\n- National Emergency Services: 112\n- Local Police Tourist Support: 100 / 112\n- Medical & Ambulance Emergency: 108\n- Goa Official Tourism Information Desk: +91 1800-209-1234",
+    "source": "TripGenie Transformer AI Engine",
+    "createdAt": "2026-09-02T04:35:12.556531",
+    "_id": "59defed7-5b2c-4bc6-a9bc-1bbc91a236c3"
+  }
+}

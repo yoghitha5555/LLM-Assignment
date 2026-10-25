@@ -1,0 +1,31 @@
+TripID,Destination,DurationDays,TravelerType,BudgetTier,TotalBudgetINR,AccommodationCostINR,ActivityCostINR,FoodCostINR,TransportCostINR,Interests,Rating,Season
+101,Goa,3,Friends,Moderate,30000,12000,6000,7000,5000,Beach|Nightlife|Food,4.8,Winter
+102,Goa,4,Solo,Budget,18000,6000,4000,4500,3500,Beach|Adventure|Culture,4.6,Winter
+103,Goa,5,Family,Luxury,75000,35000,15000,15000,10000,Beach|Food|Shopping|Culture,4.9,Winter
+104,Ooty,2,Couple,Moderate,15000,6000,3000,3500,2500,Nature|Sightseeing|Food,4.7,Monsoon
+105,Ooty,3,Family,Moderate,28000,11000,5000,7000,5000,Nature|Culture|Shopping,4.5,Summer
+106,Manali,5,Friends,Moderate,35000,14000,8000,7500,5500,Adventure|Nature|Culture,4.9,Winter
+107,Manali,4,Couple,Luxury,55000,26000,12000,10000,7000,Adventure|Nature|Luxury,4.8,Summer
+108,Jaipur,3,Family,Moderate,25000,10000,5000,5500,4500,Historical|Culture|Shopping,4.7,Winter
+109,Jaipur,2,Solo,Budget,12000,4000,2500,3000,2500,Historical|Culture|Food,4.6,Winter
+110,Kerala (Munnar & Alleppey),4,Couple,Moderate,32000,14000,6000,6500,5500,Nature|Culture|Food,4.9,Winter
+111,Kerala (Kochi & Varkala),3,Solo,Budget,16000,5500,3000,4500,3000,Beach|Culture|Food,4.7,Winter
+112,Varanasi,3,Solo,Budget,10000,3500,1500,2800,2200,Culture|Historical|Food,4.8,Winter
+113,Ladakh,6,Friends,Moderate,55000,20000,14000,11000,10000,Adventure|Nature|Culture,4.9,Summer
+114,Rishikesh,3,Friends,Budget,15000,5000,5000,3000,2000,Adventure|Culture|Nature,4.8,Summer
+115,Paris,5,Couple,Luxury,250000,110000,45000,55000,40000,Culture|Historical|Shopping|Food|Luxury,4.9,Spring
+116,Paris,4,Solo,Moderate,120000,50000,25000,25000,20000,Culture|Historical|Food,4.6,Autumn
+117,Tokyo,6,Friends,Moderate,220000,90000,45000,50000,35000,Culture|Food|Shopping|Nightlife|Adventure,4.9,Spring
+118,Tokyo,5,Family,Luxury,380000,180000,70000,80000,50000,Culture|Food|Shopping|Nature,4.8,Autumn
+119,Bali,5,Couple,Moderate,85000,35000,18000,18000,14000,Beach|Nature|Culture|Adventure,4.9,Summer
+120,Bali,4,Friends,Budget,55000,20000,13000,12000,10000,Beach|Nightlife|Adventure,4.7,Summer
+121,Dubai,4,Family,Luxury,180000,80000,45000,35000,20000,Shopping|Luxury|Adventure|Nightlife,4.8,Winter
+122,Singapore,4,Family,Moderate,140000,60000,35000,25000,20000,Shopping|Food|Culture|Nature,4.8,All-year
+123,London,5,Solo,Moderate,160000,70000,30000,35000,25000,Historical|Culture|Shopping|Food,4.7,Summer
+124,Rome,4,Couple,Moderate,130000,55000,25000,30000,20000,Historical|Culture|Food,4.9,Spring
+125,New York,5,Business,Luxury,300000,140000,50000,65000,45000,Shopping|Nightlife|Food|Culture,4.7,Autumn
+126,Amritsar,2,Family,Budget,10000,3500,1500,3000,2000,Culture|Historical|Food,4.9,Winter
+127,Udaipur,3,Couple,Luxury,45000,22000,7000,9000,7000,Historical|Culture|Luxury|Food,4.9,Winter
+128,Darjeeling,3,Solo,Moderate,16000,6500,3000,3500,3000,Nature|Culture|Food,4.6,Spring
+129,Pondicherry,3,Friends,Moderate,20000,8000,3500,5000,3500,Beach|Culture|Food|Shopping,4.7,Winter
+130,Shimla,3,Family,Moderate,24000,10000,4500,5500,4000,Nature|Historical|Shopping,4.5,Summer
